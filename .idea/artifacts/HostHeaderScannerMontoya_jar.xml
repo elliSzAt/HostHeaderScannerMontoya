@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HostHeaderScannerMontoya:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HostHeaderScannerMontoya_jar</output-path>
+    <root id="archive" name="HostHeaderScannerMontoya.jar">
+      <element id="module-output" name="HostHeaderScannerMontoya" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/portswigger/burp/extensions/montoya-api/2024.12/montoya-api-2024.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
